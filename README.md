@@ -30,4 +30,4 @@ O diretório "data" contém os datasets utilizados que possuem dados básicos so
 
 [Objetivo]: #objetivo
 [Dados]: #dados
-[Referencias]: #referências
+[Referências]: #referências
