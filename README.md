@@ -26,7 +26,7 @@ O diretório "datasets" contém os datasets utilizados que possuem dados básico
 
 
 ## Video
-
+Link para o Youtube: https://youtu.be/SP-YIagJwHo
 
 [Objetivo]: #objetivo
 [Dados]: #dados
