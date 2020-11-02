@@ -13,7 +13,7 @@ Utilizando os dados relativos à "Mortes pela policia dos EUA nos anos de 2015 a
 
 1) A proporção de mortes por raça/etnia é equivalente?
 
-2) Estados onde é permitido a posse de arma tem mais mortes?
+2) A população estar armada com arma de fogo interfere no número de mortes causadas pela polícia?
 
 3) É possível prever a idade da vítima a partir de dados demográficos?
 
